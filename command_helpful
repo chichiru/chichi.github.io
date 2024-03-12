@@ -4,3 +4,16 @@ git push origin main
 
 ID : cldnjs04@korea.ac.kr
 TOKEN : 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
+
+(base) chiwon@seochiwon-ui-noteubug chichiru.github.io % git add *
+(base) chiwon@seochiwon-ui-noteubug chichiru.github.io % git commit -m "update some info"
+[main ad1ead9] update some info
+ Committer: Chiwon Seo <chiwon@seochiwon-ui-noteubug.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
