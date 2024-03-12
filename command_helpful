@@ -1,0 +1,6 @@
+git add *
+git commit -m "원하는 커밋 메세지"
+git push origin main
+
+ID : cldnjs04@korea.ac.kr
+TOKEN : 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
